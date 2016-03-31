@@ -10,3 +10,30 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# user define
+.classpath
+.project
+*/.svn/
+.settings/
+target/
+
+piss/.classpath
+piss/.project
+piss/.svn
+piss/.settings/
+piss/target/
+
+piss-redis/.classpath
+piss-redis/.project
+piss-redis/.svn
+piss-redis/.settings/
+piss-redis/target/
+
+testweb/.classpath
+testweb/.project
+testweb/.svn
+testweb/.settings/
+testweb/target/
+
+
